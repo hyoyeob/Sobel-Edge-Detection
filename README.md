@@ -5,7 +5,7 @@ Sobel Edge Detection with C++
 <h3>Goal</h3>
 We make Sobel edge detection on C++<br>
 
-<h3>Notes<h3>
+<h3>Notes</h3>
   You need OpenCV & an image
   that image should be named 'image.jpg'
 
